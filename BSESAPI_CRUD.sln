@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSESAPI_CRUD", "BSESAPI_CRUD\BSESAPI_CRUD.csproj", "{8F9A20E7-97FD-49DC-B4BE-254636A74567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F9A20E7-97FD-49DC-B4BE-254636A74567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9A20E7-97FD-49DC-B4BE-254636A74567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9A20E7-97FD-49DC-B4BE-254636A74567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9A20E7-97FD-49DC-B4BE-254636A74567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4A2E16-24D8-4F5A-B6D3-EC681970D316}
+	EndGlobalSection
+EndGlobal

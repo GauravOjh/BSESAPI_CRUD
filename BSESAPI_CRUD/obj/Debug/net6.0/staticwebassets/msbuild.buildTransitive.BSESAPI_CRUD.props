@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BSESAPI_CRUD.props" />
+</Project>
